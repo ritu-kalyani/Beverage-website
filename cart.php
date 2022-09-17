@@ -72,7 +72,7 @@
                     <div class="pt-4 border bg-light rounded p-3">
                         <h5 class="mb-3 text-uppercase font-weight-bold text-center">Order summary</h5>
                         <ul class="list-group list-group-flush">
-                            <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 pb-0 bg-light">Total Price<span>Rs.<span class='finalTotal'>0</span></span></li>
+                            <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 pb-0 bg-light">Total Price<span>£ <span class='finalTotal'>0</span></span></li>
                             
                         </ul>
                         <div class="form-check">

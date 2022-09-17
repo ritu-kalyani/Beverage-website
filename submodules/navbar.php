@@ -19,6 +19,9 @@
                 <li>
                     <a class="nitem" href="Faq.php">FAQ</a>
                 </li>
+                <li>
+                    <a class="nitem" href="cart.php">Cart</a>
+                </li>
                 <?php
                     if (isset($_SESSION["uname"])) {
                         echo "<li>";
@@ -32,9 +35,7 @@
                         echo "</li>";
                     }
                 ?>
-                <li>
-                    <a class="nitem" href="cart.php">Cart</a>
-                </li>
+                
       </ul>
     </nav>
   </div>

@@ -76,7 +76,7 @@
                 echo "<div class='details'>";
                     echo "<div class='details-sub'>";
                         echo "<h5>" . $row["pname"] . "</h5>";
-                        echo "<h5 class='price'>Rs. " . $row["price"] . "</h5>";
+                        echo "<h5 class='price'>£ " . $row["price"] . "</h5>";
                     echo "</div>";
                 echo "<p>" . $row["description"];
                 echo "<b> Category: ". $row["category"] . "</b></p>";
